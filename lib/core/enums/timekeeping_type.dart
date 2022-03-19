@@ -1,0 +1,1 @@
+enum TimekeepingType { Face, QRCode, NFC }

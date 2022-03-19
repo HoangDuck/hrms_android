@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966970455591",
+    "firebase_url": "https://timekeeping-ba749.firebaseio.com",
+    "project_id": "timekeeping-ba749",
+    "storage_bucket": "timekeeping-ba749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966970455591:android:341e3ea7220e65b19a8002",
+        "android_client_info": {
+          "package_name": "gsot.smarthrms.timekeeping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966970455591-p4m74mgkg0arvoeilb34pbf1o2kmuj6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gsot.smarthrms.timekeeping",
+            "certificate_hash": "003f4c6c1aac7e8c2f9073d5e93666ca9dd056bd"
+          }
+        },
+        {
+          "client_id": "966970455591-g3lviiddg7ple8gblk7qhtt0ua2nctsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXUKpITGBuQIcH3TEmB3qJmiMaGvSP2XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966970455591-g3lviiddg7ple8gblk7qhtt0ua2nctsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966970455591-g9i32b9vacd97va8p2bc70e45s5p3vhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gsot.timekeeping"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

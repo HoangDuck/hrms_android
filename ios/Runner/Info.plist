@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.transistorsoft.fetch</string>
+		<string>com.transistorsoft.timekeepingTask</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Smart HRMS</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb3023148734470892</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Zalo</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>zalo-3263631662443065836</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.966970455591-g9i32b9vacd97va8p2bc70e45s5p3vhk</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>3023148734470892</string>
+	<key>FacebookDisplayName</key>
+	<string>gsot_timekeeping</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>FirebaseScreenReportingEnabled</key>
+	<true/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Smart HRMS uses your microphone to generate text by your voice</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Smart HRMS uses your calendars to choose the date for register time off, time late, working outside</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Smart HRMS uses your camera to capture your face to timekeeping</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Smart HRMS uses your contacts to connect with your colleague</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Smart HRMS uses your FaceID to login faster</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Smart HRMS uses your location to timekeeping</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Smart HRMS uses your location to timekeeping</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Smart HRMS uses your location to timekeeping</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Smart HRMS uses your microphone to generate text by your voice</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Smart HRMS uses your location to timekeeping</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Smart HRMS uses your photo library to update your photo, background profile</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Smart HRMS uses your microphone to generate text by your voice</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+</dict>
+</plist>

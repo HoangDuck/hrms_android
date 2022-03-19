@@ -1,0 +1,124 @@
+name: gsot_timekeeping
+description: A new Flutter project.
+
+version: 1.2.2+24
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.0.2
+  http: ^0.13.4
+  connectivity: ^3.0.6
+  flutter_secure_storage: ^5.0.2
+  package_info: ^2.0.2
+  flutter_page_indicator: ^0.0.3
+  cupertino_icons: ^1.0.0
+  flutter_facebook_login: ^3.0.0
+  google_sign_in: ^5.2.1
+  flutter_signin_button: ^2.0.0
+  google_maps_flutter: ^2.0.0
+  image_picker: ^0.8.4+4
+  device_preview: ^1.0.0
+  camera: ^0.9.4+14
+  dashed_container: ^1.0.1
+  intl: ^0.17.0
+  path: ^1.6.4
+  path_provider: ^2.0.8
+  crypto: ^3.0.1
+  flutter_ip: ^0.2.0
+  device_info: ^2.0.3
+  get_ip: ^0.4.0
+  month_picker_dialog: ^0.4.0
+  permission_handler: ^8.3.0
+  geolocator: ^8.0.1
+  flutter_exif_rotation: ^0.4.3
+  flutter_datetime_picker: ^1.3.8
+  fluttertoast: ^8.0.8
+  flutter_slidable: ^0.5.7
+  network_to_file_image: ^3.1.0
+  dotted_border: ^2.0.0
+  table_calendar: ^2.3.3
+  flutter_native_image: ^0.0.5+2
+  local_auth: ^1.1.1
+  location: ^4.3.0
+  speech_to_text: ^5.4.2
+  flutter_local_notifications: ^9.2.0
+  background_fetch: ^1.0.3
+  shared_preferences: ^2.0.9
+  ntp: ^2.0.0
+  firebase_messaging: ^11.2.4
+  google_maps_webservice: ^0.0.20-nullsafety.2
+  firebase_database: ^9.0.4
+  flutter_html: ^2.2.1
+  launch_review: ^3.0.1
+  url_launcher: ^6.0.17
+  draggable_scrollbar: ^0.1.0
+  flutter_nfc_kit: ^3.2.0
+  new_version: ^0.2.3
+  file_picker: ^4.3.0
+  open_file: ^3.0.3
+  signature: ^5.0.0
+  latlong: ^0.6.1
+  flutter_webview_plugin: ^0.4.0
+  mask_text_input_formatter: ^2.0.0
+  focused_menu: ^1.0.2
+  mqtt_client: ^9.6.5
+  cached_network_image: ^3.2.0
+  flutter_keyboard_visibility: ^5.1.0
+  imei_plugin: ^1.2.0
+  vibration: ^1.7.3
+  animated_text_kit: ^3.1.2
+  flutter_chat_ui: ^1.5.5
+  uuid: ^3.0.6
+  mime: ^0.9.7
+  webview_flutter: ^2.0.4
+  video_player: ^2.2.18
+  google_ml_kit: ^0.7.3
+  wifi_info_flutter: ^2.0.2
+  firebase_core: ^1.12.0
+  audioplayers: ^0.20.1
+  line_icons: ^2.0.1
+  fdottedline_nullsafety: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - language/
+    - images/
+#    - assets/mobilefacenet.tflite
+    - images/chat_images/
+    - images/chat_images/2.0x/
+    - images/chat_images/3.0x/
+    - images/news_images/
+    - sounds/news_sounds/
+  fonts:
+    - family: Sarabun
+      fonts:
+        - asset: fonts/Sarabun-Regular.ttf
+    - family: Sarabun-SemiBold
+      fonts:
+        - asset: fonts/Sarabun-SemiBold.ttf
+    - family: Sarabun-Medium
+      fonts:
+        - asset: fonts/Sarabun-Medium.ttf
+    - family: SFProDisplay-Bold
+      fonts:
+        - asset: fonts/SFProDisplay-Bold.ttf
+    - family: SFProDisplay-Regular
+      fonts:
+        - asset: fonts/SFProDisplay-Regular.ttf
+    - family: SFProDisplay-Medium
+      fonts:
+        - asset: fonts/SFProDisplay-Medium.ttf
+    - family: SFProDisplay-Semibold
+      fonts:
+        - asset: fonts/SFProDisplay-Semibold.ttf

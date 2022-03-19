@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartHRMS</string>
+    <string name="facebook_app_id">3023148734470892</string>
+    <string name="fb_login_protocol_scheme">fb3023148734470892</string>
+    <string name="appID">3263631662443065836</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Face Recognition</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>

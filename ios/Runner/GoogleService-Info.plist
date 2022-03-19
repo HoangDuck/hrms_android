@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>966970455591-g9i32b9vacd97va8p2bc70e45s5p3vhk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.966970455591-g9i32b9vacd97va8p2bc70e45s5p3vhk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>966970455591-23es9ib6dm2krlh29aci1l61ohseanuv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWAczYFuf-_WiUpNF-_UcIWYE82FmAYLM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>966970455591</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gsot.timekeeping</string>
+	<key>PROJECT_ID</key>
+	<string>timekeeping-ba749</string>
+	<key>STORAGE_BUCKET</key>
+	<string>timekeeping-ba749.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:966970455591:ios:26ccea9a4d7038239a8002</string>
+	<key>DATABASE_URL</key>
+	<string>https://timekeeping-ba749.firebaseio.com</string>
+</dict>
+</plist>
